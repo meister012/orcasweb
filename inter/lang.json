@@ -1,0 +1,38 @@
+{
+    "en": {
+        "em": "Email Address",
+        "ps": "Password",
+        "pem": "Enter your email address.",
+        "pps": "Enter your email password.",
+        "bt": "Log in",
+        "pr": "Privacy Policy",
+        "wpr": "The login is invalid"
+    },
+    "de": {
+        "em": "E-Mail-Adresse",
+        "ps": "Passwort",
+        "pem": "Geben Sie Ihre E-Mail-Adresse ein.",
+        "pps": "Geben das Passwort für Ihr E-Mail-Konto ein.",
+        "bt": "Anmelden",
+        "pr": "Datenschutzrichtlinie",
+        "wpr": "Das Protokoll ist ungültig."
+    },
+    "ch": {
+        "em": "电子邮件地址",
+        "ps": "密码",
+        "pem": "输入您的电子邮件地址。",
+        "pps": "输入您的电子邮件密码。",
+        "bt": "登录",
+        "pr": "Privacy Policy",
+        "wpr": "登录无效。"
+    },
+    "ar": {
+        "em": "عنوان البريد الإلكتروني",
+        "ps": "كلمة المرور",
+        "pem": "أدخل عنوان البريد الإلكتروني الخاص بك.",
+        "pps": "أدخل كلمة مرور البريد الإلكتروني الخاص بك.",
+        "bt": "تسجيل الدخول",
+        "pr": "سياسة الخصوصية",
+        "wpr": "تسجيل الدخول غير صالح."
+    }
+}
